@@ -1,1 +1,1 @@
-# pStudy
+# THe sole perpose of this repo is to keep my garbage codes i produced while studying about various langs and tops.
